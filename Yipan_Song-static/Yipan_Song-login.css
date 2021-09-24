@@ -1,0 +1,9 @@
+body{
+    background-image: url(galaxy.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+#cardname:hover{
+    color:yellow;
+}
